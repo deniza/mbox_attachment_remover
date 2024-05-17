@@ -16,7 +16,7 @@ Mbox Attachment Remover is a Python script designed to efficiently remove attach
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/mbox-attachment-remover.git
+    git clone https://github.com/deniza/mbox-attachment-remover.git
     cd mbox-attachment-remover
     ```
 
